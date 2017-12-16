@@ -1,2 +1,6 @@
 # techFundamentalsBlockchain
-Udemy course : technical Fundamentals of Blockchain
+
+Udemy course : Technical Fundamentals of Blockchain
+
+testing git project connectivity
+

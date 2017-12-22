@@ -5,3 +5,62 @@ Sections
 2. Blockchain Tokens
 3. Install an Ethereal Wallet
 4. Interact with your Wallet
+
+blockchain [bc]
+BC Networks : HyperLedger, Definity, Ethereum, BitCoin
+
+Ethereum networks
+
+Goals :
+- understand the essential technical aspects
+- install an ethereum wallet
+- send a test transaction
+
+blockchain : decentralized database that stores a registry {ledger} of transactions across a peer-to-peer network.
+
+4 attributes :
+- permissionless
+- transparent
+- immutable
+- secure
+
+Ethereuem
+- built after bitcoin
+- provides a network for developers to build apps on top of the network
+- apps usually comprised of ‘smarts contracts’ that contain instructions and require ‘ether’ to run on the network
+- each person that is part of the network provides the network with ‘computing power’ for other member
+
+core infrastructure {tcp/ip}
+middleware
+apps on top of middleware {“dapps” - decentralized apps}
+
+
+blockchain wallets
+
+- provide access for individual users to transact on a blockchain network
+- essentially, wallet = account
+- wallets provide access to the other users and ’dapps’ on the network
+- when you install personal wallet onto a blockchain network - too get access to just that bc network
+- an interface to engage to a broader network
+
+
+how does it work technically ?
+
+- course uses ethereum wallets
+- a wallet sit on top of bc networks allow for exchange and transactions using ‘ether’
+
+‘ether’ : 
+dual purpose :
+  - used as the powering resource for the apps built on top of the Ethereum Network
+  - base currency for exchange between network participants and what ‘dapps’ spend
+
+wallets are the terminal thru which participants gain access to the underlying network
+as new wallets are added, it potentially adds a new “miner” to the network 
+every additional miner adds incremental resources 
+
+ethereum network runs on collective computing power called ether
+
+
+Why are bc wallets important ?
+
+

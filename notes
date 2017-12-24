@@ -35,7 +35,8 @@ middleware
 apps on top of middleware {“dapps” - decentralized apps}
 
 
-blockchain wallets
+BLOCKCHAIN WALLETS
+=================
 
 - provide access for individual users to transact on a blockchain network
 - essentially, wallet = account
@@ -63,4 +64,116 @@ ethereum network runs on collective computing power called ether
 
 Why are bc wallets important ?
 
+- essential to participation
+- each chain has its own version
+- each wallet provides access to just that network
+- each wallet provides access to the dapps built on top of the network
+- wallet assigns you an immutable account-based identity thru which you interact w/dapps and their uses
+
+
+BLOCKCHAIN TOKENS
+=================
+
+sub-currencies on the bc which allow for tracking value in the form of credit or asset as they pass thru a particular bc network
+functionally similar to coins, e.g. USD cashed in for so many Chucky Cheese tokens which can only be used at Chucky Cheese
+
+How do bc tokens work ?
+
+a blockchains is a large world virtual computer
+tokens are a resource that manage the computing power of this computer
+
+tokens are a ‘smart-contract’ of a different format
+
+can be classified to different roles, predominantly :
+- value-usage tokens
+- work tokens
+
+value-usage tokens
+- behave similarly to the standard currency for the respective dapps, they essentially hold a relative price tag 
+- and can be separated from the value of ether
+
+work tokens
+- function to provide privileges to app participants {comparable to shareholder’s rights}
+- e.g., voting rights, automated business logic
+
+
+Why are blockchain tokens important ?
+
+- enable blockchain networks to be connected to assets
+- w/o tokens, blockchain networks would just exist as secure decentralized databases
+- tokens allow for assets on top of the network to hold value
+  - such that we can leverage the bc protocol
+- these tokens are fundamental in unlocking the value ADD advantages of asset mgmt on a bc
+
+
+ETHEREUM WALLETS
+================
+
+-installing an ethereal wallet into a web browser
+
+- connect to the Ropsten Ethereum Test Network
+- does not have value
+- all ether and transaction are for test purposes only
+
+- to enable the browser to handle wallets, install plugin
+  - go to metamask.io
+    - landing page will have a link for your browser or something called “Brave”
+      - Brave is a browser already set up for handling a bc network, wallets and browsing ethereal network dapps
+    - click the link to install the plug-in for your browser
+      - click the “Add to FireFox” button
+      - on the popup - accept all the bulleted items - click Add
+  - after it’s added, will appears as a small fox icon at top of browser
+    - will be brought to a home landing page w/video to demonstrate how this works
+    - click on the icon to read the Privacy Notice
+    - read & accept the terms of use
+    - you’ll then be prompted to enter in a password to use while on the bc network  {password}
+    - save the words presented in order to restore your account, should you need to
+erase provide midnight tissue ivory skull minor random confirm alarm law end
+
+    - password is used to create my “vault” in MetaMask
+    
+    - this now has installed an Ethereal wallet/vault in FireFox
+    - click on the different dapps to see how quickly & easily you can get to, and interact with, them via your own wallet
+
+
+Sending a Test Transaction
+==========================
+- click on the account icon, change the name, look at the options
+- for this test, we need 2 accounts
+  - send ether
+  - receive ether
+  - create another account
+    - click on the circular icon and give it a name
+  - accounts get created by default on the Main Ethereal Network
+    - switch to the Ropsten Test Network so we can “play” around
+    - need tokens - click on “Buy” and select the “Test Faucet”
+    - this “faucet” will feed you N Ethereum tokens at a time to allow you to test out apps and the network - no real ether value
+      - opens up a web page to the text ether faucet 
+        - click button to request 1 ether
+        - a transaction appears at the bottom
+        - click on it to seethe details
+        - details get displayed on Etherscan
+          - website showing all transactions on the network
+          - will display which network the action is for at the top of the page
+          - details indicate how long it takes to get a confirmation
+          - once the action is completed / confirmed - return to your account and see the ether
+          - send 1/2 to the other account
+          - the values appearing in the pop-up are what it costs to perform the action
+            - including how much we contribute to the network in order to perform/validate/execute the action
+              - the lowest network prices for gas will be used
+
+
+Interacting With DAPPS
+======================
+
+- decentralized apps that run in the browser and execute ’smart contracts’ on the Ethereum network
+  - stateofthedapps.com for a list of DAPPs
+    - color-coded
+    - stealth projects, abandoned, demo, etc
+
+    - look at the demo apps
+      - simple vote
+        - interacting w/dapps requires us to “pay the gas”
+
+NOTE : YOU WILL HAVE TO PAY THESE GAS FEES FOR EVERY TRANSACTION YOU WISH TO SEND ON THE MAIN ETHEREUM NETWORK
 
